@@ -1,0 +1,53 @@
+class Localization {
+  static const String letsFind = """Let's find the "A" with us""";
+  static const String pleaseSignIn =
+      'Please Sign in to view personalized\nrecommendations';
+  static const String signUp = 'Sign up';
+  static const String skip = 'Skip';
+  static const String emailAddress = 'Email Address';
+  static const String password = 'Password';
+  static const String signIn = 'Sign in';
+  static const String dontHave = 'Don’t have account?';
+  static const String name = 'Name';
+  static const String whatGrade = '''What's your grade?''';
+  static const String grade = 'Grade';
+  static const String next = 'Next';
+  static const String arts = 'Arts';
+  static const String maths = 'Maths';
+  static const String science = 'Science';
+  static const String commerce = 'Commerce';
+  static const String whatProvince = '''What's your province?''';
+  static const String provinceSrilanka = 'Provinces of Sri Lanka';
+  static const String central = 'Central';
+  static const String eastern = 'Eastern';
+  static const String northCentral = 'North Central';
+  static const String northern = 'Northern';
+  static const String northWestern = 'North Western';
+  static const String sabaragamuwa = 'Sabaragamuwa';
+  static const String southern = 'Southern';
+  static const String uva = 'Uva';
+  static const String western = 'Western';
+  static const String goodEve = 'Good evening!';
+  static const String hardlineScott = 'Hardline Scott';
+  static const String searchTeacher = 'Search your teacher';
+  static const String popularTeacher = 'Propular Teachers';
+  static const String biology = 'Biology';
+  static const String chemistry = 'Chemistry';
+  static const String cassie = 'Cassie Valdez';
+  static const String paul = 'Paul Simons';
+  static const String physics = 'Physics';
+  static const String victoryCollege = 'Victory College';
+  static const String graham = 'Graham Osbor';
+  static const String island = 'Island';
+  static const String scienceFor = 'Science for Technology';
+  static const String province = 'Province';
+  static const String districts = 'Districts';
+  static const String area = 'Area';
+  static const String subject = 'Subject';
+  static const String allSubjects = 'All Subjects';
+  static const String bioScience = 'Bio Science';
+  static const String victoryBio = 'Studying how CBD awareness and availability as it related to pain management alternatives.';
+  static const String montanaBio = 'Montana Higher Educational Institute. Gampaha montana.gampaha@gmail.com';
+  static const String susipwanBio = 'This is a private higher education center which conducting classes for GCE AL Students.';
+ 
+}
